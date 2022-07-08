@@ -4,7 +4,7 @@ import requests
 import datetime
 
 '''
-# TaxiFareModel Fare Prediction
+# Taxi Fare Prediction NYC
 '''
 
 
