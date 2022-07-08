@@ -8,7 +8,7 @@ heroku_login:
 	heroku login
 
 heroku_create_app:
-	heroku create taxiwebapp --region eu
+	heroku create taxiwebapp-sgk --region eu
 
 deploy_heroku:
 	git push heroku master
